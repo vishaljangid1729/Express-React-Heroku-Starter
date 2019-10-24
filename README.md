@@ -16,14 +16,14 @@
 
 `cd client`
 
-### install React depdndencies
+### Install React depdndencies
 
 ```
 npm install
 cd ..
 ```
 
-### run the application(Go to Express-React-Heroku-Starter folder)
+### Run the application(Go to Express-React-Heroku-Starter folder)
 
  `npm run dev`
  
